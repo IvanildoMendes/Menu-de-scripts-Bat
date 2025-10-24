@@ -11,7 +11,7 @@ Interface gráfica simples que permite executar scripts batch (.bat) de forma or
 ## 🚀 Como usar
 
 ### Método 1: Executar diretamente
-1. Baixe o arquivo `Menu-de-scripts-Bat.exe`
+1. Baixe o arquivo `Menu de scripts Bat.exe`
 2. Coloque seus scripts .bat na pasta `\bin\`
 3. Execute o programa
 
@@ -19,6 +19,12 @@ Interface gráfica simples que permite executar scripts batch (.bat) de forma or
 1. Acesse [https://www.autoitscript.com/site/autoit/downloads/](https://www.autoitscript.com/site/autoit/downloads/)
 2. Baixe o AutoIt e o Compiler (versão 64 bits recomendada)
 3. Compile o arquivo `.au3`
+
+### Método 1: Executar diretamente
+1. Baixe o arquivo `Menu de scripts Bat.exe`
+2. Descompacte o arquivo `.zip`
+3. Coloque seus scripts .bat na pasta `\bin\`
+4. Execute o programa
 
 ## 🎯 Objetivo
 
